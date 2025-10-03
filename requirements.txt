@@ -1,0 +1,10 @@
+pandas
+streamlit
+numpy
+requests
+tldextract
+openpyxl
+openai
+matplotlib
+beautifulsoup4
+lxml
